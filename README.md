@@ -26,7 +26,7 @@ At  the end of quiz user will get their total score as well as the highest score
 
 
 
-## Screenshots
+## Screenshots -
 
 ![App Screenshot](/Images/Do%20you%20know%20me%20quiz.png)
 
