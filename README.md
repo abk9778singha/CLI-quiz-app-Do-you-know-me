@@ -25,6 +25,12 @@ For each correct answer user will get some points and no points for wrong answer
 At  the end of quiz user will get their total score as well as the highest scores.
 
 
+
+## Screenshots
+
+![App Screenshot](/Images/Do%20you%20know%20me%20quiz.png)
+
+
 ## Author -
 
 - Abhishek Singha - [abk9778singha](https://github.com/abk9778singha)
